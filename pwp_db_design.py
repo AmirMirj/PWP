@@ -61,14 +61,6 @@ class Ownerstatus(db.Model):
     owner = db.relationship("Owner", back_populates="ownerstatus")
 
 class Car(db.Model):
-    # id = db.Column(db.Integer, primary_key=True)
-    # owner_id = db.Column(db.Integer, db.ForeignKey("owner.id", ondelete="SET NULL"))
-    # exhibition_id = db.Column(db.Integer, db.ForeignKey("exhibition.id", ondelete="SET NULL"))
-    # build_date = db.Column(db.DateTime, nullable=True)
-    # brand = db.Column(db.String(128), nullable=False)
-    # engine_size = db.Column(db.Float, nullable=False)
-    # cylinder = db.Column(db.Integer, nullable=True)
-
     id = db.Column(db.Integer, primary_key=True)
     registration_num = db.Column(db.Integer, nullable=False)
     registration_date = db.Column(db.DateTime, nullable=False)
