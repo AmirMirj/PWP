@@ -18,9 +18,9 @@ class Owner(db.Model):
 
 class Exhibition(db.Model):
     id = db.Column(db.Integer, primary_key=True)
-    name = db.Column(db.String(128), nullable=False)
-    address = db.Column(db.String(128), nullable=True)
-    business_id = db.Column(db.Integer, nullable=True)
+    name = db.Column(db.String(128))
+    address = db.Column(db.String(128))
+    business_id = db.Column(db.Integer)
     cars = db.relationship('Car', backref='exhibition')
 
 class Car(db.Model):
