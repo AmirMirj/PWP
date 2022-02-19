@@ -2,10 +2,11 @@
 
 ## Meeting 1.
 * **DATE: 07.02.2022**
-* **ASSISTANTS: Veli-Matti V, Seyded M. **
+* **ASSISTANTS:**
 
-20 Minutes
+### Minutes
 *Summary of what was discussed during the meeting*
+
 Deadline 1: Project plan
 
 ### Action points
@@ -17,10 +18,11 @@ Deadline 1: Project plan
 
 ## Meeting 2.
 * **DATE: 17.02.2022**
-* **ASSISTANTS: Veli-Matti V, Seyded M. **
+* **ASSISTANTS:**
 
-20 Minutes
+### Minutes
 *Summary of what was discussed during the meeting*
+
 Deadline 2: Database assigment
 
 ### Action points
