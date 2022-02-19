@@ -1,11 +1,12 @@
 # Meetings notes
 
 ## Meeting 1.
-* **DATE:**
-* **ASSISTANTS:**
+* **DATE: 07.02.2022**
+* **ASSISTANTS: Veli-Matti V, Seyded M. **
 
-### Minutes
+20 Minutes
 *Summary of what was discussed during the meeting*
+Deadline 1: Project plan
 
 ### Action points
 *List here the actions points discussed with assistants*
@@ -15,11 +16,12 @@
 *ONLY USED BY COURSE STAFF: Additional comments from the course staff*
 
 ## Meeting 2.
-* **DATE:**
-* **ASSISTANTS:**
+* **DATE: 17.02.2022**
+* **ASSISTANTS: Veli-Matti V, Seyded M. **
 
-### Minutes
+20 Minutes
 *Summary of what was discussed during the meeting*
+Deadline 2: Database assigment
 
 ### Action points
 *List here the actions points discussed with assistants*
