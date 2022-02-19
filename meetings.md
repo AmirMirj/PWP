@@ -7,11 +7,8 @@
 ### Minutes
 *Summary of what was discussed during the meeting*
 
-Deadline 1: Project plan
-
 ### Action points
 *List here the actions points discussed with assistants*
-
 
 ### Comments from staff
 *ONLY USED BY COURSE STAFF: Additional comments from the course staff*
@@ -22,8 +19,6 @@ Deadline 1: Project plan
 
 ### Minutes
 *Summary of what was discussed during the meeting*
-
-Deadline 2: Database assigment
 
 ### Action points
 *List here the actions points discussed with assistants*
