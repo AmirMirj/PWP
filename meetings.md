@@ -1,7 +1,7 @@
 # Meetings notes
 
 ## Meeting 1.
-* **DATE:**
+* **DATE: 07.02.2022**
 * **ASSISTANTS:**
 
 ### Minutes
@@ -10,12 +10,11 @@
 ### Action points
 *List here the actions points discussed with assistants*
 
-
 ### Comments from staff
 *ONLY USED BY COURSE STAFF: Additional comments from the course staff*
 
 ## Meeting 2.
-* **DATE:**
+* **DATE: 17.02.2022**
 * **ASSISTANTS:**
 
 ### Minutes
